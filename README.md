@@ -1,3 +1,6 @@
-# Lama Dev Chat App Starter template
+# Freak Chat App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This for da Freaks n Homies. 
+
+
+#### I luv kissing da Homies good Night :)
